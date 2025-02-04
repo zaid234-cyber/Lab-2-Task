@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Muhammad Zaid]  
+# 👋 Hey there! I'm Muhammad Zaid
   
 
 ### 🚀 About Me  
@@ -22,4 +22,4 @@
 
 ### 📫 Connect With Me  
 [![Email](zaidmq04@gmail.com) or (k241032@nu.edu.pk)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](your-github-url)  
+[![GitHub](https://github.com/)  
