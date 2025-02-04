@@ -21,5 +21,5 @@
 - 📊 Microsoft Word & PowerPoint  
 
 ### 📫 Connect With Me  
-[![Email](zaidmq04@gmail.com) or (k241032@nu.edu.pk)
+[![Email](zaidmq04@gmail.com)
 [![GitHub](https://github.com/)  
