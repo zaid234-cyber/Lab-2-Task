@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Muhammad Zaid
-![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fanime%2Fitachi-uchiha-19971.html&psig=AOvVaw3NDqN-YySZ881-cf_2DJJd&ust=1738773455924000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjCupy6qosDFQAAAAAdAAAAABAJ)
+![My Image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjPqBOwGow7PgGrbxHjddOcVG9GpOL458-nMUdJp3nYCjZBO7rlk17iTAhDh02BeUi2JcFjivSa_gxBqlsEY_GJT3WmL8LliZGrlbJELBbpGhzzCTkf2-8rFVOedLhKHsZ50-odwdYxxq-/s1600/2017_hyundai_eon_01.jpg)
 
 ### 🚀 About Me  
 - 🎓 Currently studying in First Year at FAST NUCES, KHI  
