@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Muhammad Zaid
-  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Fanime%2Fitachi-uchiha-19971.html&psig=AOvVaw3NDqN-YySZ881-cf_2DJJd&ust=1738773455924000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjCupy6qosDFQAAAAAdAAAAABAJ" alt="Muhammad Zaid" width="200">
 
 ### 🚀 About Me  
 - 🎓 Currently studying in First Year at FAST NUCES, KHI  
@@ -20,6 +20,4 @@
 - 🔐 Cybersecurity Basics
 - 📊 Microsoft Word & PowerPoint  
 
-### 📫 Connect With Me  
-[![Email](zaidmq04@gmail.com)
-[![GitHub](https://github.com/)  
+
